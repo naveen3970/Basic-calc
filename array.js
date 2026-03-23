@@ -6,6 +6,8 @@ const min = Math.min(...nums);
 console.log(max);
 console.log(min);
 console.log(uniqueNums);
+console.log(uniqueNums);
+
 
 
 
