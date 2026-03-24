@@ -16,4 +16,5 @@ console.log(add(10,20));
 console.log(sub(300,15));
 console.log(multiple(2,3));
 
+console.log(divide("hello"));
 console.log(divide("he"));
