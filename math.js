@@ -16,3 +16,6 @@ console.log(sub(30,15));
 console.log(multiple(2,3));
 console.log(divide(10,5));
 console.log(divide(30,2));
+
+
+
